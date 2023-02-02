@@ -1,7 +1,7 @@
 Smart Contract
 ==================
 
-A [smart contract] written in [Rust] for an app initialized with [create-near-app]
+A [smart contract] written in [Rust] for an near-game-of-life initialized with [create-near-app]
 
 
 Quick Start
